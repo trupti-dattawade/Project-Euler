@@ -10,5 +10,5 @@ Each folder includes:
 
 Primary language: Python.
 
-Linkedin - https://www.linkedin.com/in/trupti-d-2a8508296/
-Github - https://github.com/trupti-dattawade/Project-Euler
+- Linkedin - https://www.linkedin.com/in/trupti-d-2a8508296/
+- Github - https://github.com/trupti-dattawade/Project-Euler
